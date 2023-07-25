@@ -5,13 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "aizawa":"かほかほかほ"
+    "aizawa": "かほかほかほ"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "dayjs": "^1.11.9",
+    "jimp": "^0.22.8",
     "jquery": "^3.7.0",
     "ky": "^0.33.3",
     "react": "^18.2.0",
